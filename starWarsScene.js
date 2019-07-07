@@ -1,6 +1,7 @@
 function spotEachRebel(rebels) {
   var spottedRebelCalls = []
 
+// KMC: Modified code here ... 
   if (rebels) {
     spottedRebelCalls.push('Look! Rebel scum!')
   }
